@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1716506284 source:c:\users\tbram\documents\facultad\laboratorio ii\gestionhotelera\cliente.cpp
+	<iostream>
+	<cstdlib>
+
+1716506361 source:c:\users\tbram\documents\facultad\laboratorio ii\gestionhotelera\habitacion.cpp
+	<iostream>
+	<cstdlib>
+
+1717035105 source:c:\users\tbram\documents\facultad\laboratorio ii\gestionhotelera\main.cpp
+	<iostream>
+	"persona.h"
+	"cliente.h"
+	"habitacion.h"
+	"reservas.h"
+	"propietario.h"
+	"manager.h"
+
+1717031437 source:c:\users\tbram\documents\facultad\laboratorio ii\gestionhotelera\persona.cpp
+	<iostream>
+	<cstdlib>
+	"persona.h"
+	"Fecha.h"
+
+1716506361 source:c:\users\tbram\documents\facultad\laboratorio ii\gestionhotelera\propietario.cpp
+	<iostream>
+	<cstdlib>
+
+1716506361 source:c:\users\tbram\documents\facultad\laboratorio ii\gestionhotelera\reservas.cpp
+	<iostream>
+	<cstdlib>
+
+1716507045 source:c:\users\tbram\documents\facultad\laboratorio ii\gestionhotelera\c_fecha.cpp
+	<iostream>
+	<string.h>
+	<ctime>
+
+1717030778 c:\users\tbram\documents\facultad\laboratorio ii\gestionhotelera\persona.h
+	"Fecha.h"
+	<cstring>
+	<iostream>
+
+1716507165 c:\users\tbram\documents\facultad\laboratorio ii\gestionhotelera\c_fecha.cpp
+	<iostream>
+	<string.h>
+	<ctime>
+
+1717028485 c:\users\tbram\documents\facultad\laboratorio ii\gestionhotelera\cliente.h
+	"habitacion.h"
+
+1717031987 c:\users\tbram\documents\facultad\laboratorio ii\gestionhotelera\habitacion.h
+	"Fecha.h"
+
+1717028485 c:\users\tbram\documents\facultad\laboratorio ii\gestionhotelera\reservas.h
+	"propietario.h"
+
+1717028485 c:\users\tbram\documents\facultad\laboratorio ii\gestionhotelera\propietario.h
+
+1717031285 c:\users\tbram\documents\facultad\laboratorio ii\gestionhotelera\fecha.h
+	<string>
+
+1717031306 source:c:\users\tbram\documents\facultad\laboratorio ii\gestionhotelera\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1717101321 source:c:\users\tbram\documents\facultad\laboratorio ii\gestionhotelera\manager.cpp
+	<iostream>
+	"manager.h"
+
+1717100501 c:\users\tbram\documents\facultad\laboratorio ii\gestionhotelera\manager.h
+

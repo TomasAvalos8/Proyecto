@@ -1,0 +1,188 @@
+# depslib dependency file v1.0
+1716506284 source:c:\users\tbram\documents\facultad\laboratorio ii\gestionhotelera\cliente.cpp
+	<iostream>
+	<cstdlib>
+
+1717454962 source:c:\users\tbram\documents\facultad\laboratorio ii\gestionhotelera\habitacion.cpp
+	<iostream>
+	<cstdlib>
+	"habitacion.h"
+
+1717449918 source:c:\users\tbram\documents\facultad\laboratorio ii\gestionhotelera\main.cpp
+	<iostream>
+	"persona.h"
+	"cliente.h"
+	"habitacion.h"
+	"reservas.h"
+	"propietario.h"
+	"manager.h"
+
+1717031437 source:c:\users\tbram\documents\facultad\laboratorio ii\gestionhotelera\persona.cpp
+	<iostream>
+	<cstdlib>
+	"persona.h"
+	"Fecha.h"
+
+1716506361 source:c:\users\tbram\documents\facultad\laboratorio ii\gestionhotelera\propietario.cpp
+	<iostream>
+	<cstdlib>
+
+1716506361 source:c:\users\tbram\documents\facultad\laboratorio ii\gestionhotelera\reservas.cpp
+	<iostream>
+	<cstdlib>
+
+1716507045 source:c:\users\tbram\documents\facultad\laboratorio ii\gestionhotelera\c_fecha.cpp
+	<iostream>
+	<string.h>
+	<ctime>
+
+1717030778 c:\users\tbram\documents\facultad\laboratorio ii\gestionhotelera\persona.h
+	"Fecha.h"
+	<cstring>
+	<iostream>
+
+1716507165 c:\users\tbram\documents\facultad\laboratorio ii\gestionhotelera\c_fecha.cpp
+	<iostream>
+	<string.h>
+	<ctime>
+
+1717028485 c:\users\tbram\documents\facultad\laboratorio ii\gestionhotelera\cliente.h
+	"habitacion.h"
+
+1717457664 c:\users\tbram\documents\facultad\laboratorio ii\gestionhotelera\habitacion.h
+	"Fecha.h"
+
+1717028485 c:\users\tbram\documents\facultad\laboratorio ii\gestionhotelera\reservas.h
+	"propietario.h"
+
+1717028485 c:\users\tbram\documents\facultad\laboratorio ii\gestionhotelera\propietario.h
+
+1717452210 c:\users\tbram\documents\facultad\laboratorio ii\gestionhotelera\fecha.h
+	<string>
+
+1717457384 source:c:\users\tbram\documents\facultad\laboratorio ii\gestionhotelera\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1717457186 source:c:\users\tbram\documents\facultad\laboratorio ii\gestionhotelera\manager.cpp
+	<iostream>
+	"manager.h"
+	"habitacion.h"
+	"archivoshabitacion.h"
+
+1717453037 c:\users\tbram\documents\facultad\laboratorio ii\gestionhotelera\manager.h
+
+1717456135 source:c:\users\tbram\documents\facultad\laboratorio ii\gestionhotelera\archivoshabitacion.cpp
+	<iostream>
+	<cstdlib>
+	"archivoshabitacion.h"
+	"habitacion.h"
+
+1717110738 c:\users\tbram\documents\facultad\laboratorio ii\gestionhotelera\archivoshabitacion.h
+	"habitacion.h"
+	<cstring>
+
+1717549444 source:c:\users\tomas\onedrive\escritorio\carrera programacion\labo 2\proyecto\gestionhotelera\archivoshabitacion.cpp
+	<iostream>
+	<cstdlib>
+	"archivoshabitacion.h"
+	"habitacion.h"
+
+1717463956 c:\users\tomas\onedrive\escritorio\carrera programacion\labo 2\proyecto\gestionhotelera\archivoshabitacion.h
+	"habitacion.h"
+	<cstring>
+
+1717460651 c:\users\tomas\onedrive\escritorio\carrera programacion\labo 2\proyecto\gestionhotelera\habitacion.h
+	"Fecha.h"
+
+1717460650 c:\users\tomas\onedrive\escritorio\carrera programacion\labo 2\proyecto\gestionhotelera\fecha.h
+	<string>
+
+1717552875 source:c:\users\tomas\onedrive\escritorio\carrera programacion\labo 2\proyecto\gestionhotelera\cliente.cpp
+	<iostream>
+	<cstdlib>
+	"cliente.h"
+
+1717460650 source:c:\users\tomas\onedrive\escritorio\carrera programacion\labo 2\proyecto\gestionhotelera\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1717461812 source:c:\users\tomas\onedrive\escritorio\carrera programacion\labo 2\proyecto\gestionhotelera\habitacion.cpp
+	<iostream>
+	<cstdlib>
+	"habitacion.h"
+
+1717460652 source:c:\users\tomas\onedrive\escritorio\carrera programacion\labo 2\proyecto\gestionhotelera\main.cpp
+	<iostream>
+	"persona.h"
+	"cliente.h"
+	"habitacion.h"
+	"reservas.h"
+	"propietario.h"
+	"manager.h"
+
+1717550923 c:\users\tomas\onedrive\escritorio\carrera programacion\labo 2\proyecto\gestionhotelera\persona.h
+	"Fecha.h"
+	<cstring>
+	<iostream>
+
+1717552676 c:\users\tomas\onedrive\escritorio\carrera programacion\labo 2\proyecto\gestionhotelera\cliente.h
+	"habitacion.h"
+	"persona.h"
+
+1717555459 c:\users\tomas\onedrive\escritorio\carrera programacion\labo 2\proyecto\gestionhotelera\reservas.h
+	"propietario.h"
+	"habitacion.h"
+	"cliente.h"
+
+1717551079 c:\users\tomas\onedrive\escritorio\carrera programacion\labo 2\proyecto\gestionhotelera\propietario.h
+	"persona.h"
+
+1717557118 c:\users\tomas\onedrive\escritorio\carrera programacion\labo 2\proyecto\gestionhotelera\manager.h
+
+1717557152 source:c:\users\tomas\onedrive\escritorio\carrera programacion\labo 2\proyecto\gestionhotelera\manager.cpp
+	<iostream>
+	"manager.h"
+	"habitacion.h"
+	"cliente.h"
+	"archivoshabitacion.h"
+	"archivosclientes.h"
+	"reservas.h"
+	"archivosreservas.h"
+
+1717550881 source:c:\users\tomas\onedrive\escritorio\carrera programacion\labo 2\proyecto\gestionhotelera\persona.cpp
+	<iostream>
+	<cstdlib>
+	"persona.h"
+	"Fecha.h"
+
+1717460652 source:c:\users\tomas\onedrive\escritorio\carrera programacion\labo 2\proyecto\gestionhotelera\propietario.cpp
+	<iostream>
+	<cstdlib>
+
+1717557760 source:c:\users\tomas\onedrive\escritorio\carrera programacion\labo 2\proyecto\gestionhotelera\reservas.cpp
+	<iostream>
+	<cstdlib>
+	"reservas.h"
+	"cliente.h"
+
+1717553499 source:c:\users\tomas\onedrive\escritorio\carrera programacion\labo 2\proyecto\gestionhotelera\archivosclientes.cpp
+	<iostream>
+	<cstdlib>
+	"archivosclientes.h"
+	"cliente.h"
+
+1717550330 c:\users\tomas\onedrive\escritorio\carrera programacion\labo 2\proyecto\gestionhotelera\archivosclientes.h
+	"cliente.h"
+	<cstring>
+
+1717554689 source:c:\users\tomas\onedrive\escritorio\carrera programacion\labo 2\proyecto\gestionhotelera\archivosreservas.cpp
+	<iostream>
+	<cstdlib>
+	"archivosreservas.h"
+	"reservas.h"
+
+1717554763 c:\users\tomas\onedrive\escritorio\carrera programacion\labo 2\proyecto\gestionhotelera\archivosreservas.h
+	"reservas.h"
+	<cstring>
+
